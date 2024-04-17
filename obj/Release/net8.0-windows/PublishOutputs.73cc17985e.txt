@@ -1,0 +1,11 @@
+C:\Users\symam\Documents\Builded Winform Apps\LoginRegisterApp.exe
+C:\Users\symam\Documents\Builded Winform Apps\LoginRegisterApp.dll
+C:\Users\symam\Documents\Builded Winform Apps\LoginRegisterApp.deps.json
+C:\Users\symam\Documents\Builded Winform Apps\LoginRegisterApp.runtimeconfig.json
+C:\Users\symam\Documents\Builded Winform Apps\LoginRegisterApp.pdb
+C:\Users\symam\Documents\Builded Winform Apps\System.Data.SqlClient.dll
+C:\Users\symam\Documents\Builded Winform Apps\runtimes\win-arm64\native\sni.dll
+C:\Users\symam\Documents\Builded Winform Apps\runtimes\win-x64\native\sni.dll
+C:\Users\symam\Documents\Builded Winform Apps\runtimes\win-x86\native\sni.dll
+C:\Users\symam\Documents\Builded Winform Apps\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\symam\Documents\Builded Winform Apps\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
